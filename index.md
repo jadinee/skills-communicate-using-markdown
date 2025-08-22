@@ -7,3 +7,6 @@ Testing Markdown attributes
 ```javascript
 let greeting = "Hello from Step 3!";
 console.log(greeting);
+```
+
+
