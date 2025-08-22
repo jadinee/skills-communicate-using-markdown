@@ -9,4 +9,8 @@ let greeting = "Hello from Step 3!";
 console.log(greeting);
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
